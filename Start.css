@@ -1,0 +1,12 @@
+#menu {
+    animation-delay: 0ms;
+}
+
+#menu:hover{
+    border-bottom: 3px solid rgb(52, 67, 235);
+
+}
+
+#menu:active{
+    border-bottom: 3px solid rgb(52, 67, 235);
+}
